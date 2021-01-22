@@ -4,7 +4,7 @@
 * Java 1.8
 * Maven
 
-# Passo a Passo 
+## Passo a Passo 
  
 * Clonar o projeto (comando: git clone https://github.com/EdsonGustavoTofolo/SoftfocusDesafioServer.git)
 * Instalar o PostgreSQL (https://www.postgresql.org/ftp/pgadmin/pgadmin4/v4.29/windows/)
