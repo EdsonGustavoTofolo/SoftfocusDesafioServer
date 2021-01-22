@@ -1,9 +1,14 @@
 # SoftfocusDesafioServer
 
-Foi utilizado banco de dados PostgreSQL conforme requisitado no desafio.
+* Projeto utiliza banco de dados PostgreSQL 9;
+* Java 1.8
+* Maven
 
-Criar uma base chamada __softfocusDesafio__, onde o usuário e senha devem ser __postgres__ e __root__ respectivamente.
-
-Baixar as dependências que estão no arquivo pom.xml.
-
-Após isso, executar a classe __SoftFocusDesafioApplication__.  Dessa forma o servidor será  iniciado.
+# Passo a Passo 
+ 
+* Clonar o projeto (comando: git clone https://github.com/EdsonGustavoTofolo/SoftfocusDesafioServer.git)
+* Instalar o PostgreSQL (https://www.postgresql.org/ftp/pgadmin/pgadmin4/v4.29/windows/)
+* Criar uma base chamada __softfocusDesafio__, com usuário e senha __postgres__ e __root__ respectivamente
+* Instalar o Maven (https://maven.apache.org/download.cgi)
+* Baixar as dependências do Maven (comando: mvn install)
+* Executar a classe __SoftFocusDesafioApplication__.  Dessa forma o servidor será  iniciado.
